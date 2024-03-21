@@ -2,9 +2,13 @@
 
 ## Project Goals Summarized :
 
-https://github.com/microservices-demo/microservices-demo.github.io
-
 This project is about deploying a microservices-based application using automated tools to ensure quick, reliable, and secure deployment on Kubernetes. By focusing on Infrastructure as Code, you'll create a reproducible and maintainable deployment process that leverages modern DevOps practices and tools. 
+
+## Resources:
+
+Socks Shop Microservices Demo: https://github.com/microservices-demo/microservices-demo.github.io
+
+
 
 ## Project Tasks
 
