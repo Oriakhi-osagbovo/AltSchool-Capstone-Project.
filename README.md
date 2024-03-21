@@ -8,7 +8,8 @@ This project is about deploying a microservices-based application using automate
 
 Socks Shop Microservices Demo: https://github.com/microservices-demo/microservices-demo.github.io
 
-
+Detailed Implementation Guide: 
+https://github.com/microservices-demo/microservices-demo/tree/master
 
 ## Project Tasks
 
